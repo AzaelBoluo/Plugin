@@ -1,0 +1,127 @@
+"Phrases"
+{
+	"GloveMenuTitle"
+	{
+		"chi"	"手套皮肤菜单"
+	}
+	"Increase"
+	{
+		"chi"	"增加 %d%%"
+	}
+	"Decrease"
+	{
+		"chi"	"减少 %d%%"
+	}
+	"ChooseLanguage"
+	{
+		"chi"	"请选择皮肤名称显示语言："
+	}
+	"Language"
+	{
+		"chi"	"更改语言"
+	}
+	"DefaultGloves"
+	{
+		"chi"	"默认手套"
+	}
+	"RandomGloves"
+	{
+		"chi"	"随机手套"
+	}
+	"SetFloat"
+	{
+		"chi"	"手套磨损: "
+	}
+	"Invoke"
+	{
+		"chi"	"应用到对面队伍"
+	}
+	"RandomOff"
+	{
+		"chi"	"随机: 未开启"
+	}
+	"RandomSkin"
+	{
+		"chi"	"随机: 皮肤"
+	}
+	"RandomBoth"
+	{
+		"chi"	"随机: 手套和皮肤"
+	}
+	"ChooseGlove"
+	{
+		"chi"	"选择手套"
+	}
+	"SeedTitle"
+	{
+		"chi"	"图案模板： %i"
+	}
+	"SeedTitleNoSeed"
+	{
+		"chi"	"图案模板： ∞"
+	}
+	"SeedRandom"
+	{
+		"chi"	"使用随机图案模板编号"
+	}
+	"SeedManual"
+	{
+		"chi"	"手动设置图案模板编号"
+	}
+	"SeedSave"
+	{
+		"chi"	"保存当前图案模板编号"
+	}
+	"SeedInstruction"
+	{
+		"chi"	"请将你希望设置的图案模板编号输入至聊天框。如需取消，请输入 !cancel 。"
+	}
+	"SeedSuccess"
+	{
+		"chi"	"图案模板应用成功！"
+	}
+	"SeedCancelled"
+	{
+		"chi"	"图案模板设置中断。"
+	}
+	"SeedFailed"
+	{
+		"chi"	"图案模板编号无效 (0 - 8192)"
+	}
+	"SeedSaved"
+	{
+		"chi"	"图案模板编号已保存。"
+	}
+	"Seed"
+	{
+		"chi"   "图案模板编号"
+	}
+	"SeedReset"
+	{
+		"chi"	"图案模板已重置。"
+	}
+	"ResetSeed"
+	{
+		"chi"	"重置图案模板"
+	}
+	"FloatSet"
+	{
+		"chi"	"输入指定值"
+	}
+	"FloatSetInstruction"
+	{
+		"chi"	"请将你希望设置的磨损值输入至聊天框。如需取消，请输入 !cancel 。"
+	}
+	"FloatSetSuccess"
+	{
+		"chi"	"磨损值应用成功！"
+	}
+	"FloatSetCancelled"
+	{
+		"chi"	"磨损值设置中断。"
+	}
+	"FloatSetFailed"
+	{
+		"chi"	"磨损值无效 (0 - 1)"
+	}
+}
