@@ -1,5 +1,5 @@
 CSGO-Sourcemod换肤插件汉化版
-【CS2无法使用】
+【CS2自测】
 --
 Glove【手套】换肤拥有Seed【模板】选项
 
