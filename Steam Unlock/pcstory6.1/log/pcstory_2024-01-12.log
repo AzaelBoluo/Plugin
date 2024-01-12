@@ -1,0 +1,36 @@
+[2024-01-12 14:31:02.670] [info] Start Check storyservice.
+[2024-01-12 14:31:02.756] [info] Registry fp2psrv Success.
+[2024-01-12 14:31:30.042] [error] check db table error, code: 1000, desc: CPPSQLITE_ERROR[1000]: Invalid field name requested
+[2024-01-12 14:31:30.079] [info] init fp2psrv module ...
+[2024-01-12 14:31:33.735] [info] current version is 0.
+[2024-01-12 14:31:33.771] [info] create p2psrv interface ok
+[2024-01-12 14:31:34.056] [info] check pl version: flag=2&file=game_info_list.zip&version=1705038845.
+[2024-01-12 14:31:59.033] [info] pl size total: 1852.
+[2024-01-12 14:31:59.097] [info] flush data success 0 rows
+[2024-01-12 14:32:03.869] [info] [8049:pcstory] start download
+[2024-01-12 14:32:16.618] [info] [8049:pcstory]: download complete, update total: 20.47MB
+[2024-01-12 14:32:22.026] [info] Start Check storyservice.
+[2024-01-12 14:32:22.027] [info] has Registry storyservice.
+[2024-01-12 14:32:22.555] [error] check db table error, code: 1, desc: SQLITE_ERROR[1]: duplicate column name: idcclick
+[2024-01-12 14:32:22.684] [info] init fp2psrv module ...
+[2024-01-12 14:32:22.704] [info] create p2psrv interface ok
+[2024-01-12 14:32:22.704] [info] current version is 0.
+[2024-01-12 14:32:23.025] [info] check pl version: flag=2&file=game_info_list.zip&version=1705038845.
+[2024-01-12 14:32:48.793] [info] pl size total: 1852.
+[2024-01-12 14:32:48.825] [info] flush data success 0 rows
+[2024-01-12 14:43:11.738] [info] [8285:死亡细胞[steam]] start download
+[2024-01-12 14:46:21.635] [info] current version is 1705038845.
+[2024-01-12 14:46:21.871] [info] check pl version succeed flag=1.
+[2024-01-12 14:48:06.855] [info] [8285:死亡细胞[steam]]: download complete, update total: 2165.87MB
+[2024-01-12 14:56:21.872] [info] current version is 1705038845.
+[2024-01-12 14:56:22.077] [info] check pl version succeed flag=1.
+[2024-01-12 15:06:22.085] [info] current version is 1705038845.
+[2024-01-12 15:06:22.325] [info] check pl version succeed flag=1.
+[2024-01-12 15:16:22.341] [info] current version is 1705038845.
+[2024-01-12 15:16:22.563] [info] check pl version succeed flag=1.
+[2024-01-12 15:26:22.574] [info] current version is 1705038845.
+[2024-01-12 15:26:22.866] [info] check pl version succeed flag=1.
+[2024-01-12 15:35:25.716] [info] [8458:了不起的修仙模拟器[steam]] start download
+[2024-01-12 15:36:22.865] [info] current version is 1705038845.
+[2024-01-12 15:36:24.118] [info] check pl version succeed flag=1.
+[2024-01-12 15:39:27.054] [info] [8458:了不起的修仙模拟器[steam]]: download complete, update total: 2057.24MB
